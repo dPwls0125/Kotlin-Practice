@@ -1,6 +1,8 @@
 package section2
 
 /**
+ * lec5 - 코틀린에서 제어문을 다루는 방법 (if ,  when)
+ *
  * 1. if문
  * java에서 if-else는 Statement이지만, Kotlin에서는 Expression이다. ==> if,else분의 return값을 바로 = 으로 대입할 수 있기 때문에 더이상 삼항 연산자기 필요하지 않다.
  * Statement : 프로그램의 문장, 하나의 값으로 도출되지 않는다.
