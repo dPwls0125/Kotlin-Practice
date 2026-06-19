@@ -1,4 +1,4 @@
-package section2
+package section3
 
 /**
  * lec5 - 코틀린에서 제어문을 다루는 방법 (if ,  when)
